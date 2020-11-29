@@ -37,6 +37,7 @@ int main()
 		{
 			cout << "x";
 		}
+		cout << endl << "Dziękuję za uwagę";
 	}
 	return 0;
 }
